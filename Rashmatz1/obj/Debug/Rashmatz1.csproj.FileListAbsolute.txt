@@ -1,0 +1,11 @@
+C:\Users\Noam\Documents\Programming\C#\Rashmatz1\bin\Debug\Rashmatz1.exe.config
+C:\Users\Noam\Documents\Programming\C#\Rashmatz1\bin\Debug\Rashmatz1.exe
+C:\Users\Noam\Documents\Programming\C#\Rashmatz1\bin\Debug\Rashmatz1.pdb
+C:\Users\Noam\Documents\Programming\C#\Rashmatz1\obj\Debug\Rashmatz1.Properties.Resources.resources
+C:\Users\Noam\Documents\Programming\C#\Rashmatz1\obj\Debug\Rashmatz1.csproj.GenerateResource.cache
+C:\Users\Noam\Documents\Programming\C#\Rashmatz1\obj\Debug\Rashmatz1.csproj.CoreCompileInputs.cache
+C:\Users\Noam\Documents\Programming\C#\Rashmatz1\obj\Debug\Rashmatz1.exe
+C:\Users\Noam\Documents\Programming\C#\Rashmatz1\obj\Debug\Rashmatz1.pdb
+C:\Users\Noam\Documents\Programming\C#\Rashmatz1\obj\Debug\Rashmatz1.csprojAssemblyReference.cache
+C:\Users\Noam\Documents\Programming\C#\Rashmatz1\obj\Debug\Rashmatz1.mainWin.resources
+C:\Users\Noam\Documents\Programming\C#\Rashmatz1\obj\Debug\Rashmatz1.viewItem.resources
